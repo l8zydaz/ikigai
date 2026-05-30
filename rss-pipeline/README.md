@@ -239,11 +239,3 @@ A self-hosted instance on localhost means your reading habits never leave your m
 For security researchers and academics this isn't paranoia — it's just good practice.
 
 ---
-
-## Files
-
-```
-.
-├── README.md
-└── feeds.opml    # 100+ curated RSS feeds, ready to import
-```
