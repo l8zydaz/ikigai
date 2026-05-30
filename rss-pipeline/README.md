@@ -247,13 +247,3 @@ For security researchers and academics this isn't paranoia — it's just good pr
 ├── README.md
 └── feeds.opml    # 100+ curated RSS feeds, ready to import
 ```
-
----
-
-## License
-
-MIT — take it, modify it, make it yours.
-
----
-
-*Built on Debian 13 Trixie · Apache 2.4 · FreshRSS · OpenSSL 3.5*
